@@ -4,7 +4,8 @@ Notices after first review:
  - name fields (expand to 255 - limit 50 is always problematic for such fields)
  - all description fields should be largen than 255
  - providers does not have address in documentation;
- - provider missing links, summary
+ - provider missing "summary"
+ - links: instead of url, place value;
  - program: highlight - idea was to put textare (that will be treat it by JS markup editor)
  - add dictornary for status or use ENUM (we can discuss all of pros/cons of this 2 ways)
  - offer: "volonteer type" should be many to many to ditionary
